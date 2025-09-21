@@ -1,5 +1,3 @@
-![Mi banner](./assets/animated-badge.svg)
-
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,8,14,20,26&height=200&section=header&text=Felipe%20Morales&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Ingeniero%20Biomédico%20%7C%20Tecnología%20Médica%20%7C%20Innovación%20en%20Salud&descAlignY=55&descAlign=50" />
 </div>
