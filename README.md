@@ -23,7 +23,7 @@
 
 <br>
 
-<img align="right" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350px" alt="Medical Technology">
+<img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="350px" alt="Coding Monkey">
 
 ### 👨‍⚕️ Acerca de Mí
 
