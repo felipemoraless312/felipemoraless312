@@ -1,3 +1,5 @@
+![Mi banner](./assets/animated-badge.svg)
+
 Hi there! I'm a Biomedical Engineer passionate about technology and innovation.I specialize in:
 Python & MATLAB programming
 Electronics & hardware integration
