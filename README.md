@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=3000&pause=1000&color=2ECC71&center=true&vCenter=true&random=false&width=700&lines=Ingeniero+Biomédico+🏥;Especialista+en+Tecnología+Médica+⚕️;Innovación+en+Dispositivos+Médicos+🔬;Pasión+por+la+Bioingeniería+💚)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=3000&pause=1000&color=2ECC71&center=true&vCenter=true&random=false&width=700&lines=Ingeniero+Biomédico;Especialista+en+Tecnología+Médica;Innovación+en+Dispositivos+Médicos;Pasión+por+la+Bioingeniería+💚)](https://git.io/typing-svg)
   
 </div>
 
@@ -61,6 +61,7 @@ const felipeMorales = {
 
 ### Áreas de Especialización
 
+-  **Procesamiento de Imagenes Médicas** - Reconstrucción de imagenes, y procesamiento para algoritmos de IA
 -  **Instrumentación Médica** - Diseño y mantenimiento de equipos médicos
 -  **Procesamiento de Señales** - Análisis de señales ECG, EEG, EMG
 -  **Dispositivos Biomédicos** - Desarrollo de tecnología médica innovadora
