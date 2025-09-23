@@ -25,7 +25,7 @@
 
 <img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="350px" alt="Coding Monkey">
 
-### 👨‍⚕️ Acerca de Mí
+### Acerca de Mí
 
 <details>
 <summary><b>¡Haz clic para expandir!</b></summary>
@@ -59,14 +59,14 @@ const felipeMorales = {
 
 <br>
 
-### 🎯 Áreas de Especialización
+### Áreas de Especialización
 
-- 🏥 **Instrumentación Médica** - Diseño y mantenimiento de equipos médicos
-- 📊 **Procesamiento de Señales** - Análisis de señales ECG, EEG, EMG
-- 🔬 **Dispositivos Biomédicos** - Desarrollo de tecnología médica innovadora
-- 📱 **Telemedicina** - Aplicaciones móviles para monitoreo remoto
-- 🗄️ **Bases de Datos Médicas** - Gestión de información clínica
-- 🛠️ **Mantenimiento Biomédico** - Calibración y reparación de equipos médicos
+-  **Instrumentación Médica** - Diseño y mantenimiento de equipos médicos
+-  **Procesamiento de Señales** - Análisis de señales ECG, EEG, EMG
+-  **Dispositivos Biomédicos** - Desarrollo de tecnología médica innovadora
+-  **Telemedicina** - Aplicaciones móviles para monitoreo remoto
+-  **Bases de Datos Médicas** - Gestión de información clínica
+-  **Mantenimiento Biomédico** - Calibración y reparación de equipos médicos
 
 <br>
 
@@ -76,7 +76,7 @@ const felipeMorales = {
 
 <br>
 
-### 💼 Experiencia Profesional
+### Experiencia Profesional
 
 <details>
 <summary><b>Haz clic para ver mi historial laboral</b></summary>
