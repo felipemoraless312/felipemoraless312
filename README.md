@@ -84,7 +84,7 @@ const felipeMorales = {
 
 | Posición | Institución | Duración | Logros Destacados |
 |----------|-------------|----------|-------------------|
-| **Ingeniero Biomédico** | Hospital Regional | 2022-Presente | • Mantenimiento de equipos de imagenología<br>• Implementación de protocolos de seguridad<br>• Capacitación al personal médico |
+| **CEO** | Numma | 2022-Presente | • Desarrollo de tecnología, comunicaciones, dispositivos, programación de microcontroladores|
 | **Desarrollador de Dispositivos** | MedTech Solutions | 2021-2022 | • Diseño de prototipos biomédicos<br>• Programación de microcontroladores<br>• Validación de dispositivos médicos |
 | **Técnico en Instrumentación** | Clínica Especializada | 2020-2021 | • Calibración de equipos de laboratorio<br>• Análisis de señales biomédicas<br>• Soporte técnico especializado |
 
@@ -92,7 +92,7 @@ const felipeMorales = {
 
 <br>
 
-### 🛠️ Stack Tecnológico
+### Stack Tecnológico
 
 <div align="center">
   
@@ -131,7 +131,7 @@ const felipeMorales = {
 
 <br>
 
-### 🌐 Idiomas
+###  Idiomas
 
 <div align="center">
   
@@ -145,7 +145,7 @@ const felipeMorales = {
 
 <br>
 
-### 📊 Estadísticas de GitHub
+###  Estadísticas de GitHub
 
 <div align="center">
   <a href="https://github.com/FelipeMorales">
@@ -160,7 +160,7 @@ const felipeMorales = {
 
 <br>
 
-### 🏆 Certificaciones y Logros
+###  Certificaciones y Logros
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=FelipeMorales&theme=radical&no-frame=true&no-bg=false&margin-w=4&margin-h=4&column=8" alt="Trophies"/>
@@ -168,16 +168,16 @@ const felipeMorales = {
 
 <br>
 
-### 🔬 Proyectos Destacados
+###  Proyectos Destacados
 
 <div align="center">
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|------------|
-| 📈 **Sistema ECG IoT** | Monitor cardíaco con transmisión inalámbrica | Arduino, Python, React |
-| 🧠 **Análisis EEG** | Procesamiento de señales cerebrales con ML | MATLAB, Python, TensorFlow |
-| 🏥 **App Telemedicina** | Aplicación móvil para consultas remotas | React Native, Node.js |
-| 🔍 **Diagnóstico por Imagen** | IA para detección de anomalías en rayos X | Python, OpenCV, Deep Learning |
+| **Sistema ECG IoT** | Monitor cardíaco con transmisión inalámbrica | Arduino, Python, React |
+| **Análisis EEG** | Procesamiento de señales cerebrales con ML | MATLAB, Python, TensorFlow |
+| **App Telemedicina** | Aplicación móvil para consultas remotas | React Native, Node.js |
+| **Diagnóstico por Imagen** | IA para detección de anomalías en rayos X | Python, OpenCV, Deep Learning |
 
 </div>
 
@@ -189,23 +189,23 @@ const felipeMorales = {
 
 <br>
 
-### 💪 Competencias Técnicas
+### Competencias Técnicas
 
 <div align="center">
   
 | Habilidad | Nivel |
 |-----------|-------|
-| 🔬 Instrumentación Biomédica | ████████████ |
-| 📊 Procesamiento de Señales | ███████████░ |
-| 💻 Programación Médica | ████████████ |
-| 🏥 Normativas Médicas | ██████████░░ |
-| 🤝 Trabajo Interdisciplinario | ████████████ |
+| Instrumentación Biomédica | ████████████ |
+| Procesamiento de Señales | ███████████░ |
+| Programación Médica | ████████████ |
+| Normativas Médicas | ██████████░░ |
+| Trabajo Interdisciplinario | ████████████ |
 
 </div>
 
 <br>
 
-### 📈 Gráfico de Contribuciones
+### Gráfico de Contribuciones
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FelipeMorales&theme=redical&hide_border=false&custom_title=Felipe's%20Contribution%20Graph" alt="Contribution Graph"/>
@@ -213,7 +213,7 @@ const felipeMorales = {
 
 <br>
 
-### 🤝 Conéctate Conmigo
+###  Conéctate Conmigo
 
 <div align="center">
   <a href="https://github.com/FelipeMorales">
