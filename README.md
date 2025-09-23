@@ -178,13 +178,6 @@ Proyectos Destacados
 </div>
 
 <br>
-
-### Gráfico de Contribuciones
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FelipeMorales&theme=redical&hide_border=false&custom_title=Felipe's%20Contribution%20Graph" alt="Contribution Graph"/>
-</div>
-
 <br>
 
 ###  Conéctate Conmigo
