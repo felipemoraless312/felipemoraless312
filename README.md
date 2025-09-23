@@ -142,32 +142,6 @@ const felipeMorales = {
 | 🇫🇷 Francés | Básico |
 
 </div>
-
-<br>
-
-###  Estadísticas de GitHub
-
-<div align="center">
-  <a href="https://github.com/FelipeMorales">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FelipeMorales&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FelipeMorales&layout=compact&langs_count=8&theme=radical"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeMorales&theme=radical&hide_border=false" alt="Felipe's Streak"/>
-</div>
-
-<br>
-
-###  Certificaciones y Logros
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FelipeMorales&theme=radical&no-frame=true&no-bg=false&margin-w=4&margin-h=4&column=8" alt="Trophies"/>
-</div>
-
-<br>
-
 ###  Proyectos Destacados
 
 <div align="center">
