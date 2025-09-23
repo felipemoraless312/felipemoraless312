@@ -142,7 +142,7 @@ const felipeMorales = {
 | 🇫🇷 Francés | Básico |
 
 </div>
-###  Proyectos Destacados
+Proyectos Destacados
 
 <div align="center">
 
