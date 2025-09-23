@@ -183,7 +183,7 @@ Proyectos Destacados
 ###  Conéctate Conmigo
 
 <div align="center">
-  <a href="https://github.com/FelipeMorales">
+  <a href="https://github.com/felipemoraless312">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="mailto:felipe.morales@email.com">
